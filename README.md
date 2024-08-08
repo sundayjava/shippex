@@ -28,3 +28,26 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+
+## Installation Instructions
+
+To run the Shipment Tracker App locally, follow these steps:
+
+- Clone the Repository:
+```
+git clone https://github.com/yourusername/shipment-tracker-app.git
+cd shipment-tracker-app
+```
+
+- Install Dependencies:
+Ensure you have Node.js and npm installed, then run:
+```
+npm install
+```
+
+- Run the App:
+Start the development server with:
+```
+npm run dev
+```
